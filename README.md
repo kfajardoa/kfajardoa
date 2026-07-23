@@ -43,14 +43,3 @@ I am a **Software Developer & Systems Engineer** focused on creating efficient, 
 
 </div>
 
----
-
-### 🟪 Overview & Tools
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kfajardoa&layout=compact&theme=dark&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=kfajardoa&color=a970ff&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
